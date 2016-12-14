@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TouchZoomImageView</string>
+    <!-- Activities -->
+    <string name="single_touchimageview">Single TouchImageView</string>
+    <string name="mirror_touchimageview">Mirroring Example</string>
+    <string name="viewpager_example">ViewPager Example</string>
+    <string name="switch_image_example">Switch Image Example</string>
+    <string name="switch_scaletype_example">Switch ScaleType Example</string>
+
+    <string name="get_scroll_position">获取滚动的位置:</string>
+    <string name="get_zoomed_rect">得到放大的矩形:</string>
+    <string name="get_current_zoom">获取当前的缩放:</string>
+    <string name="mirroring_text">所有的触摸手势应用到一个imageview，并且将反映在其他的imageview 上.</string>
+    <string name="swipe_viewpager">向左或向右滑动 测试ViewPager.</string>
+    <string name="switch_image_text">单击ImageView循环的切换图片资源。并保持同样的缩放状态.</string>
+    <string name="switch_scaletype_text">单击ImageView循环的切换图片缩放类型ScaleTypes</string>
+</resources>
